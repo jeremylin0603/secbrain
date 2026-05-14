@@ -94,9 +94,3 @@ SecBrain/
 
 每次有 ingest / inbox 整理 / 新 synthesis,你都要評估要不要更新 `README.md`。
 `README.md` 只反映**「現在的我」**,過時的東西移到 wiki 內部,不要留在入口頁。
-
-## 關於我
-
-- 工作: 前端工程師,Nuxt/Vue 為主
-- 探索中: OpenClaw, Hermes Agent
-- 投資邏輯: AI 自動化解決日常痛點,長期保持職涯競爭力
